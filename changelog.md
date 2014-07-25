@@ -20,3 +20,4 @@
 * Updated User collection
 * Updated home
 * Added SEO to home
+* Updated dashboard
