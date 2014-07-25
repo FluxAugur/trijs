@@ -14,3 +14,4 @@
 * Updated loading
 * Updated header
 * Updated footer
+* Updated 404
