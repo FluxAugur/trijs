@@ -21,3 +21,5 @@
 * Updated home
 * Added SEO to home
 * Updated dashboard
+* Updated global stylesheet
+* Updates mixins & variables stylesheets
