@@ -25,3 +25,4 @@
 * Updates mixins & variables stylesheets
 * Updated accounts on client
 * Added events
+* Added chat
