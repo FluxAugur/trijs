@@ -10,3 +10,5 @@
 * Add Bootstrap 3.1.1
 * Updated routes
 * Updated router config
+* Updated index
+*
