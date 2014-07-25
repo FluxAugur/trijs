@@ -17,3 +17,4 @@
 * Updated 404
 * Updated README
 * Updated AccountsEntry config
+* Updated User collection
