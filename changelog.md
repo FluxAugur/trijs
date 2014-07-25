@@ -27,3 +27,4 @@
 * Added events
 * Added chat
 * Added about
+* Added contact
