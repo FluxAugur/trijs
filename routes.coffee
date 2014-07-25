@@ -1,9 +1,21 @@
 Router.map ->
-  @router 'home',
+  @route 'home',
     path: '/'
 
   @route 'dashboard',
     path: 'dashboard'
+
+  @route 'events',
+    path: 'events'
+
+  @route 'chat',
+    path: 'chat'
+
+  @route 'about',
+    path: 'about'
+
+  @route 'contact',
+    path: 'contact'
 
   @route 'notFound',
     path: '*'
