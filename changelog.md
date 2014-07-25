@@ -15,3 +15,4 @@
 * Updated header
 * Updated footer
 * Updated 404
+* Updated README
