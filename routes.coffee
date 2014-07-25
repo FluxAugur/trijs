@@ -1,5 +1,5 @@
 Router.map ->
-  @router 'home',
+  @route 'home',
     path: '/'
 
   @route 'dashboard',

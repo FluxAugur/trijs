@@ -6,7 +6,12 @@
 standard-app-packages
 autopublish
 insecure
-accounts-entry
 iron-router
+coffeescript
+less
+accounts-ui
+accounts-entry
+accounts-password
 handlebars-server
+blaze-layout
 minimongoid
