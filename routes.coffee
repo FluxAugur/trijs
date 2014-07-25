@@ -11,6 +11,9 @@ Router.map ->
   @route 'chat',
     path: 'chat'
 
+  @route 'about',
+    path: 'about'
+
   @route 'notFound',
     path: '*'
     where: 'server'

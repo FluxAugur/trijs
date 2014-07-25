@@ -26,3 +26,4 @@
 * Updated accounts on client
 * Added events
 * Added chat
+* Added about
