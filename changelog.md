@@ -18,3 +18,5 @@
 * Updated README
 * Updated AccountsEntry config
 * Updated User collection
+* Updated home
+* Added SEO to home
