@@ -8,6 +8,9 @@ Router.map ->
   @route 'events',
     path: 'events'
 
+  @route 'chat',
+    path: 'chat'
+
   @route 'notFound',
     path: '*'
     where: 'server'
