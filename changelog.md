@@ -13,3 +13,4 @@
 * Updated index
 * Updated loading
 * Updated header
+* Updated footer
