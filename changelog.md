@@ -16,3 +16,4 @@
 * Updated footer
 * Updated 404
 * Updated README
+* Updated AccountsEntry config
