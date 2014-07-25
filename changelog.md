@@ -12,3 +12,4 @@
 * Updated router config
 * Updated index
 * Updated loading
+* Updated header
